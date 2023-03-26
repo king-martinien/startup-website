@@ -1,0 +1,46 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: "Work Sans", sans-serif;
+}
+
+*::selection {
+    background-color: var(--clr-dark);
+    color: var(--clr-green);
+}
+
+html,
+body {
+    min-height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: inherit;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+@for $i from 1 through 6 {
+    h#{$i} {
+        font-family: "Crimson Text", sans-serif;
+    }
+}
+
+ul {
+    list-style: none;
+}

@@ -1,0 +1,26 @@
+.container {
+    max-width: 1180px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.text-upper {
+    text-transform: uppercase;
+}
+
+.btn {
+    text-transform: capitalize;
+    padding: 12px 32px;
+    border-radius: 5px;
+    width: max-content;
+
+    &-dark {
+        background-color: var(--clr-dark);
+        color: var(--clr-white);
+    }
+
+    &-white {
+        background-color: var(--clr-white);
+        color: var(--clr-dark);
+    }
+}
