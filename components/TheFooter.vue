@@ -5,7 +5,7 @@
         <li class="social-item">
           <NuxtLink to="/" target="_blank" class="social-link">
             <img
-              src="icons/socials/facebook.svg"
+              src="/icons/socials/facebook.svg"
               loading="lazy"
               alt="facebook icon"
             />
@@ -14,7 +14,7 @@
         <li class="social-item">
           <NuxtLink to="/" target="_blank" class="social-link">
             <img
-              src="icons/socials/instagram.svg"
+              src="/icons/socials/instagram.svg"
               loading="lazy"
               alt="instagram icon"
             />
@@ -23,7 +23,7 @@
         <li class="social-item">
           <NuxtLink to="/" target="_blank" class="social-link">
             <img
-              src="icons/socials/twitter.svg"
+              src="/icons/socials/twitter.svg"
               loading="lazy"
               alt="twitter icon"
             />
@@ -32,7 +32,7 @@
         <li class="social-item">
           <NuxtLink to="/" target="_blank" class="social-link">
             <img
-              src="icons/socials/pinterest.svg"
+              src="/icons/socials/pinterest.svg"
               loading="lazy"
               alt="pinterest icon"
             />
@@ -41,7 +41,7 @@
         <li class="social-item">
           <NuxtLink to="/" target="_blank" class="social-link">
             <img
-              src="icons/socials/tiktok.svg"
+              src="/icons/socials/tiktok.svg"
               loading="lazy"
               alt="tiktok icon"
             />
@@ -50,7 +50,7 @@
         <li class="social-item">
           <NuxtLink to="/" target="_blank" class="social-link">
             <img
-              src="icons/socials/whatsapp.svg"
+              src="/icons/socials/whatsapp.svg"
               loading="lazy"
               alt="whatsapp icon"
             />
@@ -59,7 +59,7 @@
         <li class="social-item">
           <NuxtLink to="/" target="_blank" class="social-link">
             <img
-              src="icons/socials/youtube.svg"
+              src="/icons/socials/youtube.svg"
               loading="lazy"
               alt="youtube icon"
             />

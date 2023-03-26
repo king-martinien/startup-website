@@ -7,8 +7,6 @@
 </template>
 
 <script setup>
-import { defineProps } from "vue";
-
 defineProps({
   supTitle: {
     type: String,
@@ -36,6 +34,7 @@ defineProps({
   text-align: center;
   max-width: 400px;
   margin: 0 auto;
+  padding: 30px 0;
 }
 .sup-title {
   letter-spacing: 5px;

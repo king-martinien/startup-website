@@ -2,7 +2,11 @@
   <section class="section" :class="{ reverse: isReverse, hero: isHero }">
     <div class="section-container container">
       <div class="section-img">
-        <img :src="`images/${sectionImg}`" alt="section image" loading="lazy" />
+        <img
+          :src="`/images/${sectionImg}`"
+          alt="section image"
+          loading="lazy"
+        />
       </div>
       <div class="section-description">
         <h3>{{ title }}</h3>
@@ -16,8 +20,6 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
-
 const props = defineProps({
   sectionImg: {
     type: String,

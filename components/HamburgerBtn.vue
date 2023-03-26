@@ -5,8 +5,6 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
-
 const emit = defineEmits(["toggled"]);
 const isToggled = ref(false);
 

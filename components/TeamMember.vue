@@ -2,7 +2,7 @@
   <div class="member">
     <div class="member-avatar">
       <img
-        :src="`images/avatars/${avatar}`"
+        :src="`/images/avatars/${avatar}`"
         alt="member avatar"
         loading="lazy"
       />

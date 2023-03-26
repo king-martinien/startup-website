@@ -2,7 +2,7 @@
   <section class="hero">
     <div class="hero-container container">
       <div class="hero-img">
-        <img src="images/hero-img.png" alt="hero image" loading="lazy" />
+        <img src="/images/hero-img.png" alt="hero image" loading="lazy" />
       </div>
       <div class="hero-text">
         <p class="sup-title text-upper">Welcome</p>

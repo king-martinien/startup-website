@@ -2,7 +2,7 @@
   <header class="header">
     <div class="header-container container">
       <NuxtLink to="/" class="logo">
-        <img src="icons/start-logo.svg" alt="Start Logo" loading="lazy" />
+        <img src="/icons/start-logo.svg" alt="Start Logo" loading="lazy" />
       </NuxtLink>
       <nav class="nav" :class="{ active: isNavToggled }">
         <ul class="nav-menu">
