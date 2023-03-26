@@ -25,6 +25,21 @@ useHead({
       name: "description",
       content: "Portfolio",
     },
+    {
+      name: "keywords",
+      content: "Portfolio, Startup, Website, nuxt, composition api",
+    },
+    {
+      name: "author",
+      content: "King-Martinien",
+    },
+    {
+      name: "viewport",
+      content: "width=device-width, initial-scale=1.0",
+    },
+    {
+      
+    }
   ],
 });
 

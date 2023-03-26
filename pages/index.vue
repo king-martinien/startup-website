@@ -137,7 +137,7 @@ useHead({
     {
       hid: "og:image",
       property: "og:image",
-      content: "https://startup-website-phi.vercel.app/hero-img.png",
+      content: "https://startup-website-phi.vercel.app/images/hero-img.png",
     },
     {
       hid: "og:url",
@@ -158,7 +158,7 @@ useHead({
     {
       hid: "twitter:image",
       name: "twitter:image",
-      content: "https://startup-website-phi.vercel.app/hero-img.png",
+      content: "https://startup-website-phi.vercel.app/images/hero-img.png",
     },
     {
       hid: "twitter:card",
