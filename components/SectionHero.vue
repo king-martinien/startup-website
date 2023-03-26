@@ -35,6 +35,10 @@
     gap: 30px;
   }
 
+  &-img {
+    min-height: 195px;
+  }
+
   &-text {
     display: flex;
     flex-direction: column;
@@ -80,6 +84,10 @@
     &-img {
       flex: 1;
       gap: 10px;
+    }
+
+    &-img {
+      min-height: 378px;
     }
   }
 

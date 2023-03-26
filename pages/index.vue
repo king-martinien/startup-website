@@ -137,12 +137,12 @@ useHead({
     {
       hid: "og:image",
       property: "og:image",
-      content: "https://startup-website.vercel.app/hero-img.png",
+      content: "https://startup-website-phi.vercel.app/hero-img.png",
     },
     {
       hid: "og:url",
       property: "og:url",
-      content: "https://startup-website.vercel.app/",
+      content: "https://startup-website-phi.vercel.app/",
     },
     {
       hid: "twitter:title",
@@ -158,7 +158,7 @@ useHead({
     {
       hid: "twitter:image",
       name: "twitter:image",
-      content: "https://startup-website.vercel.app/hero-img.png",
+      content: "https://startup-website-phi.vercel.app/hero-img.png",
     },
     {
       hid: "twitter:card",
@@ -178,7 +178,7 @@ useHead({
     {
       hid: "twitter:url",
       name: "twitter:url",
-      content: "https://startup-website.vercel.app/",
+      content: "https://startup-website-phi.vercel.app/",
     },
   ],
 });
